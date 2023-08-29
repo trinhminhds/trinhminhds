@@ -18,5 +18,5 @@ My name is Minh Trinh. I am a Data Science student majoring in Artificial Intell
 </a>
 <a href="https://github.com/trinhminhds/SQL">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=trinhminhds&repo=SQL&theme=gruvbox_light" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=SQL&theme=dracula" />
 </a>
