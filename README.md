@@ -16,11 +16,11 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=C_PlusPlus&theme=merko" />
 </a>
-<a href="https://github.com/trinhminhds/SQL">
+<a href="https://github.com/trinhminhds/SQL/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=SQL&theme=dracula" />
 </a>
-<a href="https://github.com/trinhminhds/Project_Java_JDBC_MySQL">
+<a href="https://github.com/trinhminhds/Project_Java_JDBC_MySQL/">
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Project_Java_JDBC_MySQL&theme=cobalt" />
 </a>
