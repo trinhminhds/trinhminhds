@@ -36,3 +36,8 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=C_Shap_Windows_Forms&theme=onedark" />
 </a>
+<a href="https://github.com/trinhminhds/Object_Oriented_Programming_OOP_Java/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Object_Oriented_Programming_OOP_Java&theme=gruvbox" />
+</a>
+
