@@ -4,9 +4,9 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/minh-trinh-1007b3273/)  [🐳 Facebook](https://www.facebook.com/minh.trinhngoc.965)
 
-
 ![Minh Trinh github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trinhminhds&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminhds&layout=pie)](https://github.com/trinhminhds/trinhminhds)
 
 <a href="https://github.com/trinhminhds/python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
