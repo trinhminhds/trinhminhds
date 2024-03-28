@@ -8,6 +8,8 @@
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminhds&layout=pie)](https://github.com/trinhminhds/trinhminhds)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trinhminhds)](https://github.com/trinhminhds/trinhminhds)
+
 <a href="https://github.com/trinhminhds/python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Python&theme=radical" />
