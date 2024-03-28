@@ -8,7 +8,7 @@
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminhds&layout=pie)](https://github.com/trinhminhds/trinhminhds)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/trinhminhds/trinhminhds)
 
 <a href="https://github.com/trinhminhds/python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
