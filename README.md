@@ -74,14 +74,14 @@
 
 ## Tools & Platforms
 <p align="center">
-<img alt="Git" src="https://img.shields.io/badge/Git-f05134?style=for-the-badge&logo=git&logoColor=f05134&labelColor=282828">
+<img alt="Git" src="https://img.shields.io/badge/Git-f05134?style=for-the-badge&logo=git&logoColor=f05134&labelColor=484848">
 <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <br/>
 <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img alt="Colab" src="https://img.shields.io/badge/Colab-fb9c04?style=for-the-badge&&logo=google-colab&logoColor=fb9c04&labelColor=282828">
+<img alt="Colab" src="https://img.shields.io/badge/Colab-fb9c04?style=for-the-badge&&logo=google-colab&logoColor=fb9c04&labelColor=484848">
 <img alt="Kaggle"  src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 <br/>
 <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
