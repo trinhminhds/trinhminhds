@@ -6,9 +6,9 @@
 
 ![Minh Trinh github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=trinhminhds&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminhds&layout=pie)](https://github.com/trinhminhds/trinhminhds)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminhds&layout=pie&theme=calm)](https://github.com/trinhminhds/trinhminhds)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trinhminh17\&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trinhminh17\&layout=compact\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 <a href="https://github.com/trinhminhds/python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
