@@ -38,9 +38,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=SetupPcNew&theme=synthwave" />
 </a> 
-<a href="https://github.com/trinhminhds/Data_Science/">
+<a href="https://github.com/trinhminhds/90_Different_Animals_Image_Classification/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Data_Science&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=90_Different_Animals_Image_Classification&theme=highcontrast" />
 </a> 
 <a href="https://github.com/trinhminhds/C_Shap_Windows_Forms/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -49,6 +49,10 @@
 <a href="https://github.com/trinhminhds/Object_Oriented_Programming_OOP_Java/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Object_Oriented_Programming_OOP_Java&theme=gruvbox" />
+</a>
+<a href="https://github.com/trinhminhds/Intel_Image_Classification/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Intel_Image_Classification&theme=highcontrast" />
 </a>
 
 
