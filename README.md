@@ -54,11 +54,15 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Intel_Image_Classification&theme=highcontrast" />
 </a>
+<a href="https://github.com/trinhminhds/Graduation_Project/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Graduation_Project&theme=onebark" />
+</a>
 
-
+<!--
 ## ⌛ WakaTime stats
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trinhminh17\&layout=compact\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trinhminh17\&layout=compact\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff) -->
 
 
 
