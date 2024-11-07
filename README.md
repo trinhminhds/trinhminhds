@@ -21,43 +21,36 @@
 <a href="https://github.com/trinhminhds/Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Python&theme=radical" />
-</a>    
-<a href="https://github.com/trinhminhds/C_PlusPlus">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=C_PlusPlus&theme=merko" />
 </a>
 <a href="https://github.com/trinhminhds/SQL/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=SQL&theme=dracula" />
 </a>
-<a href="https://github.com/trinhminhds/Project_Java_JDBC_MySQL/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Project_Java_JDBC_MySQL&theme=cobalt" />
-</a>
-<a href="https://github.com/trinhminhds/SetupPcNew/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=SetupPcNew&theme=synthwave" />
-</a> 
 <a href="https://github.com/trinhminhds/90_Different_Animals_Image_Classification/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=90_Different_Animals_Image_Classification&theme=highcontrast" />
 </a> 
-<a href="https://github.com/trinhminhds/C_Shap_Windows_Forms/">
+<a href="https://github.com/trinhminhds/SetupPcNew/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=C_Shap_Windows_Forms&theme=onedark" />
-</a>
-<a href="https://github.com/trinhminhds/Object_Oriented_Programming_OOP_Java/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=LLM_Detect_AI_Generated_Text&theme=synthwave" />
+</a> 
+<a href="https://github.com/trinhminhds/Graduation_Project/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Object_Oriented_Programming_OOP_Java&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Handwritten_Digit_Recognition&theme=onedark" />
 </a>
 <a href="https://github.com/trinhminhds/Intel_Image_Classification/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Intel_Image_Classification&theme=highcontrast" />
 </a>
-<a href="https://github.com/trinhminhds/Graduation_Project/">
+<a href="https://github.com/trinhminhds/Project_Java_JDBC_MySQL/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Handwritten_Digit_Recognition&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Project_Java_JDBC_MySQL&theme=cobalt" />
 </a>
+<a href="https://github.com/trinhminhds/Object_Oriented_Programming_OOP_Java/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Object_Oriented_Programming_OOP_Java&theme=gruvbox" />
+</a>
+
 
 <!--
 ## ⌛ WakaTime stats
