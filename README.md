@@ -30,7 +30,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=90_Different_Animals_Image_Classification&theme=highcontrast" />
 </a> 
-<a href="https://github.com/trinhminhds/SetupPcNew/">
+<a href="https://github.com/trinhminhds/LLM_Detect_AI_Generated_Text">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=LLM_Detect_AI_Generated_Text&theme=synthwave" />
 </a> 
