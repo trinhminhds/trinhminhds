@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-🤖 My name is Minh Trinh. I am a Data Science student majoring in Artificial Intelligence and Data. I am interested in the following topics: Deep Learning in NLP. Reinforcement Learning. AI. Data.<br>
+🤖 My name is Minh Trinh, a Data Science student specializing in Artificial Intelligence and Data. I am passionate about exploring and researching topics such as Deep Learning in NLP, Reinforcement Learning, AI, and Data.<br>
 ## 📫 How to reach me: 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-trinh-1007b3273/)
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minh.trinhngoc.965)
