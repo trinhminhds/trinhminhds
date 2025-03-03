@@ -25,7 +25,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Building_AI_Resume_App&theme=radical" />
 </a>
-<a href="https://github.com/trinhminhds/Extracting_Structured_Data_From_PDFs">
+<a href="https://github.com/trinhminhds/Extracting-Structured-Data-From-PDFs">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trinhminhds&repo=Extracting-Structured-Data-From-PDFs&theme=dracula" /> 
 </a> 
