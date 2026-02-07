@@ -12,8 +12,12 @@
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=trinhminhds&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=trinhminhds&show_icons=true&hide=contribs,issues&hide_border=true" /> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminhds&layout=pie" />
+    -->
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trinhminhds&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trinhminhds&theme=default" />
+    
   </td>
   <td width="52%"><img alt="gif" align="right" src="coding.gif"/></td>
 </tr>
